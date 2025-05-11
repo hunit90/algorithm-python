@@ -10,4 +10,4 @@ def solution(code):
         elif mode == 1 and idx % 2 == 1:
             answer += code[idx]
 
-    return answer if answwer else 'EMPTY'
+    return answer if answer else 'EMPTY'
